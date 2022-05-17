@@ -13,11 +13,11 @@ export default {
       "suffix": "catioroaracagy"
     },
     {
-      "tags": ["hotdog", "hamburguer"],
+      "tags": ["hamburguer"],
       "suffix": "drsandubaaracagy"
     },
     {
-      "tags": ["pizza, massas"],
+      "tags": ["pizza"],
       "suffix": "pizzasunset"
     },
     {
