@@ -1,8 +1,8 @@
 // ALTERAVEL
 export default {
   "title": "Ilha Food Park",
-  "bannerUrlDesktop": "https://prdmktplace.z15.web.core.windows.net/ilhafoodpark/banner-ilha-food-park.png",
-  "bannerUrlMobile": "https://prdmktplace.z15.web.core.windows.net/ilhafoodpark/banner-ilha-food-park-mobile.png",
+  "bannerUrlDesktop": "https://rmelobarbosa.github.io/testjsonenabled/ilhafood/banner-ilha-food-park.png",
+  "bannerUrlMobile": "https://rmelobarbosa.github.io/testjsonenabled/ilhafood/banner-ilha-food-park-mobile.png",
   "organizations": [
    {
       "tags": ["restaurante"],
