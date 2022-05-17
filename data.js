@@ -1,8 +1,8 @@
 // ALTERAVEL
 export default {
   "title": "Ilha Food Park",
-  "bannerUrlDesktop": "https://rmelobarbosa.github.io/testjsonenabled/ilhafood/banner-ilha-food-park.png",
-  "bannerUrlMobile": "https://rmelobarbosa.github.io/testjsonenabled/ilhafood/banner-ilha-food-park-mobile.png",
+  "bannerUrlDesktop": "https://rmelobarbosa.github.io/testjsonenabled/banner-ilha-food-park.png",
+  "bannerUrlMobile": "https://rmelobarbosa.github.io/testjsonenabled/banner-ilha-food-park-mobile.png",
   "organizations": [
    {
       "tags": ["restaurante"],
