@@ -5,7 +5,7 @@ export default {
   "bannerUrlMobile": "https://rmelobarbosa.github.io/testjsonenabled/banner-ilha-food-park-mobile.png",
   "organizations": [
    {
-      "tags": ["restaurante"],
+      "tags": ["refeição"],
       "suffix": "oxentemix"
     },
     {
