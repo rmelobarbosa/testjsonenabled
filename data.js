@@ -104,10 +104,7 @@ export default {
 		  "tags": ["Hamburgueria"],
 		  "suffix": "frazaoburgerhouseslz"
 		},
-	{
-		  "tags": ["Comida Brasileira"],
-		  "suffix": "coisasdopara"
-		},
+
 	{
 		  "tags": ["Pizza"],
 		  "suffix": "diggiopizza"
