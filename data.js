@@ -5,7 +5,7 @@ export default {
   "bannerUrlMobile": "https://rmelobarbosa.github.io/testjsonenabled/banner-eaesio-mobile.png",
   "organizations": [
    {
-      "tags": ["Pizza", "Comida Brasileira"],
+      "tags": ["Pizza","Comida Brasileira"],
       "suffix": "ladivinasaoluis"
     },
 	{
@@ -25,7 +25,7 @@ export default {
 		  "suffix": "pizzasunset"
 		},
 	{
-		  "tags": ["Comida Brasileira", "Açaí", "Salgados"],
+		  "tags": ["Açaí","Comida Brasileira","Salgados"],
 		  "suffix": "coisasdopara"
 		},
 	{
@@ -33,15 +33,15 @@ export default {
 		  "suffix": "espetinhoacasaenossa"
 		},
 	{
-		  "tags": ["Churrasco", "Comida Brasileira"],
+		  "tags": ["Churrasco","Comida Brasileira"],
 		  "suffix": "santobraseiro"
 		},
 	{
-		  "tags": ["Massas", "Comida Brasileira"],
+		  "tags": ["Massas","Comida Brasileira"],
 		  "suffix": "nationsfoodslz"
 		},
 	{
-		  "tags": ["Churrasco", "Comida Brasileira"],
+		  "tags": ["Churrasco","Comida Brasileira"],
 		  "suffix": "harasbbq"
 		},
 	{
@@ -61,7 +61,7 @@ export default {
 		  "suffix": "pepeburger"
 		},
 	{
-		  "tags": ["Churrasco", "Comida Brasileira"],
+		  "tags": ["Churrasco","Comida Brasileira"],
 		  "suffix": "casabraseiro"
 		},
 	{
@@ -77,7 +77,7 @@ export default {
 		  "suffix": "catioroaracagy"
 		},
 	{
-		  "tags": ["Comida Brasileira", "Hamburgueria"],
+		  "tags": ["Comida Brasileira","Hamburgueria"],
 		  "suffix": "rangosgrill"
 		},
 	{
@@ -110,7 +110,7 @@ export default {
 		  "suffix": "diggiopizza"
 		},
 	{
-		  "tags": ["Churrasco", "Hamburgueria"],
+		  "tags": ["Churrasco","Hamburgueria"],
 		  "suffix": "fogobovino_"
 		},
 	{
@@ -122,11 +122,11 @@ export default {
 		  "suffix": "rota50burger"
 		},
 	{
-		  "tags": ["Hamburgueria", "Pizza"],
+		  "tags": ["Hamburgueria","Pizza"],
 		  "suffix": "sousasburger"
 		},
 	{
-		  "tags": ["Churrasco", "Comida Brasileira"],
+		  "tags": ["Churrasco","Comida Brasileira"],
 		  "suffix": "oxentemix"
 		},
 	{
