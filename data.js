@@ -134,7 +134,7 @@ export default {
       "suffix": "tarochedatapiocaria"
     },
     {
-      "tags": ["Sushi"],
+      "tags": ["Comida Japonesa"],
       "suffix": "reidosushicohatrac1"
     },
     {
