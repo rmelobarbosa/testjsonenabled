@@ -136,6 +136,10 @@ export default {
     {
       "tags": ["Sushi"],
       "suffix": "reidosushicohatrac1"
+    },
+    {
+      "tags": ["Hot Dog"],
+      "suffix": "rocketshotdog"
     }
   ]
 }
