@@ -132,6 +132,10 @@ export default {
 	{
       "tags": ["Tapioca"],
       "suffix": "tarochedatapiocaria"
+    },
+    {
+      "tags": ["Sushi"],
+      "suffix": "reidosushicohatrac1"
     }
   ]
 }
