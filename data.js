@@ -140,6 +140,10 @@ export default {
     {
       "tags": ["Hot Dog"],
       "suffix": "rocketshotdog"
+    },
+     {
+      "tags": ["Comida Japonesa"],
+      "suffix": "reidosushiparqueathenas"
     }
   ]
 }
