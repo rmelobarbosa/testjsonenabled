@@ -184,6 +184,110 @@ export default {
      {
 		  "tags": ["Hamburgueria"],
 		  "suffix": "drsanduba"
+		},
+     {
+		  "tags": ["Doces"],
+		  "suffix": "doceimperio"
+		},
+      {
+      "tags": ["Comida Japonesa"],
+      "suffix": "alojapaslz"
+    },
+      {
+      "tags": ["Pizza"],
+      "suffix": "absurdapizzaria"
+    },
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "drsandubaco"
+		},
+     {
+		  "tags": ["Pizza"],
+		  "suffix": "sioemassa"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "drsandubaaracagy"
+		},
+    {
+		  "tags": ["Hot Dog","Massas"],
+		  "suffix": "cantinamassasehotdog"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "felipisburgerebrasas"
+		},
+    {
+		  "tags": ["Churrasco","Hamburgueria"],
+		  "suffix": "santobraseiro"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "lordsburgueredogueria"
+		},
+    {
+		  "tags": ["Patel","Massas"],
+		  "suffix": "oxipasteldomluis"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "rockburguersteakhouse"
+		},
+    {
+      "tags": ["Tapioca"],
+      "suffix": "tapiocarianandamoraes"
+    },
+    {
+		  "tags": ["Açaí"],
+		  "suffix": "sosacaislz"
+		},
+    {
+		  "tags": ["Pizza"],
+		  "suffix": "tomperodipizza"
+		},
+    {
+		  "tags": ["Patel"],
+		  "suffix": "oxipastelfoodparkjoaopaulo"
+		},
+    {
+		  "tags": ["Patel","Hamburgueria"],
+		  "suffix": "moiseslanches"
+		},
+    {
+		  "tags": ["Hamburgueria","Petiscos"],
+		  "suffix": "chickenbucket"
+		},
+    {
+		  "tags": ["Hamburgueria","Hot Dog","Massas"],
+		  "suffix": "pepeulanches"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "vigoreburgervinhais"
+		},
+    {
+      "tags": ["Comida Japonesa"],
+      "suffix": "sakidosushidelivery"
+    },
+    {
+		  "tags": ["Pizza"],
+		  "suffix": "megapizzaslz"
+		},
+    {
+		  "tags": ["Comida Brasileira"],
+		  "suffix": "casadocaldobistro"
+		},
+    {
+		  "tags": ["Açougue"],
+		  "suffix": "sioacarne"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "chefsburger"
+		},
+    {
+		  "tags": ["Hot Dog"],
+		  "suffix": "doguinho"
 		}
   ]
 }
