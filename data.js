@@ -148,7 +148,43 @@ export default {
      {
       "tags": ["Hamburgueria"],
       "suffix": "villaburguerslz"
-    }
+    },
+      {
+      "tags": ["Sanduiche"],
+      "suffix": "selvaticos"
+    },
+        {
+      "tags": ["Pizza"],
+      "suffix": "felicitadipizza"
+    },
+       {
+      "tags": ["Comida Japonesa"],
+      "suffix": "sushihouseslz"
+    },
+      {
+      "tags": ["Hamburgueria"],
+      "suffix": "fireburgerslz"
+    },
+       {
+      "tags": ["Pizza"],
+      "suffix": "tiodell"
+    },
+    {
+		  "tags": ["Hamburgueria","Pizza"],
+		  "suffix": "gugupizzaburguers"
+		},
+     {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "burguerwars"
+		},
+     {
+		  "tags": ["Hamburgueria","Massas","comida Japonesa","Pizza","churrasco"],
+		  "suffix": "reidaesfiha"
+		},
+     {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "drsanduba"
+		}
   ]
 }
 
