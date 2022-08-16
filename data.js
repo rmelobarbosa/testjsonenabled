@@ -144,6 +144,10 @@ export default {
      {
       "tags": ["Comida Japonesa"],
       "suffix": "reidosushiparqueathenas"
+    },
+     {
+      "tags": ["Hamburgueria"],
+      "suffix": "villaburguerslz"
     }
   ]
 }
