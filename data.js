@@ -324,6 +324,14 @@ export default {
     {
 		  "tags": ["Pizza"],
 		  "suffix": "jokarefeicoesepizzaria"
+		},
+    {
+		  "tags": ["Hamburgueria","Salgados","Churrasco"],
+		  "suffix": "cantinhodossalgados"
+		},
+    {
+		  "tags": ["Churrasco"],
+		  "suffix": "harasbbq"
 		}
   ]
 }
