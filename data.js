@@ -288,6 +288,42 @@ export default {
     {
 		  "tags": ["Hot Dog"],
 		  "suffix": "doguinho"
+		},
+    {
+		  "tags": ["Hamburgueria","Pizza","Massas","Hot Dog","Churrasco"],
+		  "suffix": "cancessionariadolanche"
+		},
+    {
+		  "tags": ["Churrasco","Hamburgueria"],
+		  "suffix": "sioacarne"
+		},
+    {
+		  "tags": ["Doces","Salgados"],
+		  "suffix": "casadahellendocessalgados"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "brasaburguergv"
+		},
+    {
+		  "tags": ["Churrasco"],
+		  "suffix": "barbecueexpress"
+		},
+    {
+		  "tags": ["Hamburgueria","Hot Dog"],
+		  "suffix": "ilhagourmet"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "gabriellanches1"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "villagrillslz"
+		},
+    {
+		  "tags": ["Pizza"],
+		  "suffix": "jokarefeicoesepizzaria"
 		}
   ]
 }
