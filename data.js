@@ -332,6 +332,10 @@ export default {
     {
 		  "tags": ["Churrasco"],
 		  "suffix": "harasbbq"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "jhouse"
 		}
   ]
 }
