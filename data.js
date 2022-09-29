@@ -336,6 +336,38 @@ export default {
     {
 		  "tags": ["Hamburgueria"],
 		  "suffix": "jhouse"
+		},
+    {
+		  "tags": ["Hamburgueria","Churrasco"],
+		  "suffix": "quintaldobrabo"
+		},
+    {
+		  "tags": ["Hamburgueria","Salgados"],
+		  "suffix": "cantinhodossalgados"
+		},
+    {
+		  "tags": ["Hamburgueria"],
+		  "suffix": "podraoderua"
+		},
+     {
+		  "tags": ["Hot Dog"],
+		  "suffix": "dogmassa"
+		},
+    {
+		  "tags": ["Hot Dog","Hamburgueria"],
+		  "suffix": "mburguer"
+		},
+    {
+		  "tags": ["Pizza"],
+		  "suffix": "mandapizza"
+		},
+    {
+		  "tags": ["Comida Brasileira"],
+		  "suffix": "cozinhatemperodemae"
+		},
+    {
+		  "tags": ["Pizza"],
+		  "suffix": "santorecheio"
 		}
   ]
 }
